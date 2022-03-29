@@ -25,11 +25,9 @@ Male riders were the main bike riders.
 
 Breakdown of subscribers vs. customer by weekday and gender.  Thursdays being the highest usage during the weekday and Saturdays during the weekend.
 
-![This is an image](https://github.com/KyHicks/bikesharing/blob/main/Images/Trips%20by%20gender%20(weekday%20per%20%20hour.png)
+![This is an image](https://github.com/KyHicks/bikesharing/blob/main/Images/Trips%20by%20gender%20weekday%20per%20%20hour.png)
 
 Breakdown of genders and weekday per hours show that the busiest time during the work week were during the morning and evening commutes.  While the busiest times on the weekends were late morings through the afternoon.
-
-
 
 ## Summary
 
